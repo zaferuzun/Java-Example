@@ -1,2 +1,7 @@
-package com.company;public interface IBaseCar {
+package com.company;
+
+public interface IBaseCar {
+    public void MarkaDondur();
+
+
 }
