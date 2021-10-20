@@ -8,6 +8,7 @@ public class Main {
         ICollection[] iCollections=new ICollection[]{new ArrayListExample(),new HashMapExample()};
         UtilityManager utilityManager=new UtilityManager();
         utilityManager.classListele(iCollections);
+        //deneme
         //spesifik deneme yapmak için eklendi
         //utilityManager.ArrayListRemove(1);
 
