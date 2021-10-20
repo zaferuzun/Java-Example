@@ -30,8 +30,13 @@ public class ExceptionExample {
         }
     }
 
-    public void Kontrol(int number1,int number2){
-
+    public void Kontrol(int number1,int number2) throws KontrolException {
+            if(number1>number2){
+                System.out.println("Number1 büyüktür number2");
+            }else
+            {
+                throw new KontrolException("Number1 büyük degildir");
+            }
     }
 
 }
