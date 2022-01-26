@@ -1,4 +1,4 @@
-package java8.lambda;
+package com.zuzun.java8.lambda;
 
 public class MainTest {
 

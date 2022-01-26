@@ -1,6 +1,4 @@
-package java8.lambda;
-
-import java.util.ArrayList;
+package com.zuzun.java8.lambda;
 
 public class LambdaExpression {
 
